@@ -29,8 +29,8 @@ export default function MainRoutes() {
             <Dashboard />
           </div>
         }
-        path="/login"
-        key="/login"
+        path="/dashboard"
+        key="/dashboard"
       />
     </Routes>
   );
