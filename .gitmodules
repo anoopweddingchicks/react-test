@@ -1,0 +1,3 @@
+[submodule "my-app/src/dashboard"]
+	path = my-app/src/dashboard
+	url = https://github.com/anoopsnp/react-dashboard.git
